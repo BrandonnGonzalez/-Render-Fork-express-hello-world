@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello to all Render deployments!
     </section>
   </body>
 </html>
